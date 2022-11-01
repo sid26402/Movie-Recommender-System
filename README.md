@@ -8,4 +8,6 @@ tags.csv
 movies.csv
 ratings.csv
 but unfortunately these files are too big to upload here so if you want to get this files u can email me at sidharth9873@gmail.com or dm me on instagram at thakur_sidharthsingh 
+the word file is overview that how the overall project will look like 
+it contains the output screenshots of code
 
